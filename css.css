@@ -1,1 +1,23 @@
 
+#menu ul li {
+    display: inline-block;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 28.4px;
+}
+
+#menu {
+    background-color: rgb(0, 0, 0);
+    height: 75px;
+    width: 100%;
+    
+}
+
+#inici {
+    background-color: rgb(255, 0, 0);
+    margin-right: -5px;
+    margin-left: -40px;
+}
+
+#menu ul li:hover{
+    background-color: rgba(255, 0, 0, 0.5);
